@@ -76,7 +76,7 @@ for row in records:
     pv += row[2]
     im += row[3]
     if i == 48:
-        pv_Data.append(pv)
+        pv_Data.append(pv)ci
         im_Data.append(im)
         Weeks.append(WeeksData[d])
         pv = 0
