@@ -1,1 +1,1 @@
-web: gunicorn hello:app --loggit
+web: python YOURSCRIPTNAME.py
