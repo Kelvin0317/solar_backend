@@ -1,1 +1,1 @@
-web: python YOURSCRIPTNAME.py
+web: gunicorn app:app
